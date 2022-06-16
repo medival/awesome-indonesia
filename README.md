@@ -34,6 +34,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Bootcamp
 
+- [Adinusa](https://adinusa.id/) - Adinusa atau Akademi Digital Nusantara adalah program bootcamp khusus untuk DevOps dan Cloud track.
 - [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
 - [Baba Studio](https://www.babastudio.com/) - Tempat kursus pemrograman web, SEO, digital marketing & bisnis online.
 - [CodePolitan](https://www.codepolitan.com/) - Tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
@@ -107,11 +108,12 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam Bahasa Indonesia melalui tulisan dan video tutorial.
 
 ## Monitoring
+
 - [Monika](https://monika.hyperjump.tech/) - A command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 
 ## Miscellaneous
 
-- [Cosmopass](https://cosmopass.xyz) - Web-based open source passphrase generator for multiple languages, including Indonesian. 
+- [Cosmopass](https://cosmopass.xyz) - Web-based open source passphrase generator for multiple languages, including Indonesian.
 - [Covid-19 API](https://github.com/mathdroid/covid-19-api) - COVID-19 global data (from JHU CSSE for now) as-a-service.
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
 - [Gembok Authenticator](https://github.com/rioastamal/gembok) - Browser based 2FA alternative to Google Authenticator.
